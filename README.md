@@ -48,10 +48,10 @@ flowchart LR
 │   ├── 07_analysis_verification_paradox_validation.sql # Validasi bias seleksi pada status verifikasi
 │   └── 08_prescriptive_policy_simulation.sql       # Simulasi dampak kebijakan kredit (What-If S0-S3)
 ├── dashboard/
-│   ├── Lending Club Loan.pbix                      # File Power BI Desktop interaktif
-│   └── Lending_Club_Dashboard_Export.pdf           # Laporan visual 5 halaman full widescreen (16:9)
+│   ├── Lending Club Loan Dashboard.pbix                      # File Power BI Desktop interaktif
+│   └── Data Analyst - Lending Club Loan Dashboard.pdf           # Laporan visual 5 halaman full widescreen (16:9)
 ├── presentation/
-│   └── Lending_Club_Portfolio_Presentation.pdf     # Slide presentasi eksekutif 17 slide
+│   └── Portofolio Data Analyst - Lending Club Loan.pdf     # Slide presentasi eksekutif 17 slide
 └── README.md
 ```
 
